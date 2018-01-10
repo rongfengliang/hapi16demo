@@ -7,6 +7,6 @@
     "hapi": "16"
   },
   "scripts": {
-    "start":"node server"
+    "start:basic-plugin":"node basic-plugin/server"
   }
 }
