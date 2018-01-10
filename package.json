@@ -1,0 +1,12 @@
+{
+  "name": "demofirst",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "16"
+  },
+  "scripts": {
+    "start":"node server"
+  }
+}
