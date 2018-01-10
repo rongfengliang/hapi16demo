@@ -5,3 +5,9 @@
 ```bash
 yarn run start 
 ```
+
+## run with docker
+```bash
+docker build -t demo .
+docker run -d -p 3000:3000 demo
+```
